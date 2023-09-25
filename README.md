@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sama
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning AI and Computer Science
+- 🎓 I'm currently studying AI at Faculty of Computers and Artificial Intelligence
+- 📫 How to reach me: www.linkedin.com/in/sama-mohsen
